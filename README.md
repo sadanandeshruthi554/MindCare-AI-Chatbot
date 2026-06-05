@@ -49,7 +49,7 @@
 #### Mac/Linux
 
     source venv/bin/activate
---------------
+
 ### 3️⃣ Install Dependencies
 
     pip install -r requirements.txt
