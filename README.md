@@ -1,11 +1,8 @@
 ## MindCare-AI-Chatbot
 ## 📌 Project Overview
 
-MindCare-AI is an intelligent mental wellness assistant built using Python, Streamlit, and Google's Gemini AI. The chatbot is designed to support users through empathetic conversations, provide stress-relief suggestions, encourage healthy habits, and promote positive mental well-being.
-
-The application includes basic emotion detection, emergency response handling for self-harm related messages, conversation memory, and a clean user-friendly interface.
-
-⚠️ Disclaimer: MindCare-AI is not a replacement for professional mental health services. It is intended for educational and supportive purposes only.
+- MindCare-AI is an intelligent mental wellness assistant built using Python, Streamlit, and Google's Gemini AI. The chatbot is designed to support users through empathetic conversations, provide stress-relief suggestions, encourage healthy habits, and promote positive mental well-being.
+- The application includes basic emotion detection, emergency response handling for self-harm related messages, conversation memory, and a clean user-friendly interface.
 -----------------
 ## ✨ Features
 
@@ -73,7 +70,7 @@ The application includes basic emotion detection, emergency response handling fo
 4. Chat history is maintained for contextual responses.
 5. Gemini AI generates supportive and empathetic guidance.
 6. Emergency messages trigger safety-focused responses.
-The chatbot interface is implemented in Streamlit while Gemini AI powers the conversational   intelligence. 
+- The chatbot interface is implemented in Streamlit while Gemini AI powers the conversational intelligence. 
 ----------------
 ## 🧠 Core Functionalities
 1. Emotional Support : Provides encouraging and compassionate responses to users.
